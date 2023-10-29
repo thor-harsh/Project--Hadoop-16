@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. Here We will upgrade our previous WordCount project. We will add the normalize function to handle UTF encoding properly using our amazing spark to make the analysis of project easy and correct**.<br></br>
+**In this project We will use Spark with Python to do a great stuff. Here We will upgrade our previous WordCount project. We will add the normalize function to handle UTF encoding properly using our amazing spark to make an easy analysis of project along with giving us the correct result**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
